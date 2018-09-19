@@ -1,0 +1,7 @@
+H:\2018 BIT\Prof prac\peer activity\peer activity\obj\Debug\peer activity.csprojAssemblyReference.cache
+H:\2018 BIT\Prof prac\peer activity\peer activity\obj\Debug\peer activity.csproj.CoreCompileInputs.cache
+H:\2018 BIT\Prof prac\peer activity\peer activity\bin\Debug\peer activity.exe.config
+H:\2018 BIT\Prof prac\peer activity\peer activity\bin\Debug\peer activity.exe
+H:\2018 BIT\Prof prac\peer activity\peer activity\bin\Debug\peer activity.pdb
+H:\2018 BIT\Prof prac\peer activity\peer activity\obj\Debug\peer activity.exe
+H:\2018 BIT\Prof prac\peer activity\peer activity\obj\Debug\peer activity.pdb
